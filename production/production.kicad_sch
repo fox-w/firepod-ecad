@@ -1,0 +1,182 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "421ce809-a89d-415c-b400-e18378b399f0")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 193.04 26.67)
+		(size 71.12 44.45)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "02e648af-db4f-4405-b90d-51b8f612df1d")
+		(property "Sheetname" "Sensors"
+			(at 193.04 25.9584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sensors.kicad_sch"
+			(at 193.04 71.7046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "production"
+				(path "/421ce809-a89d-415c-b400-e18378b399f0"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 26.67 93.98)
+		(size 62.23 55.88)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "55481737-18e1-4c21-a1f2-042b310f0784")
+		(property "Sheetname" "Wireless Transciever"
+			(at 26.67 93.2684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "transciever.kicad_sch"
+			(at 26.67 150.4446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "production"
+				(path "/421ce809-a89d-415c-b400-e18378b399f0"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 25.4)
+		(size 64.77 44.45)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "bbebd250-0774-41e4-b410-1f092139ca0a")
+		(property "Sheetname" "Power & Battery"
+			(at 25.4 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power_bms.kicad_sch"
+			(at 25.4 70.4346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "production"
+				(path "/421ce809-a89d-415c-b400-e18378b399f0"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 194.31 96.52)
+		(size 69.85 48.26)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c5178492-0c3d-49d9-95d6-bbc9b9a1bc09")
+		(property "Sheetname" "Bootloading"
+			(at 194.31 95.8084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "bootloading.kicad_sch"
+			(at 194.31 145.3646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "production"
+				(path "/421ce809-a89d-415c-b400-e18378b399f0"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
